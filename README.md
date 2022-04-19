@@ -31,3 +31,15 @@ https://stackoverflow.com/questions/29360910/geopy-retrieving-country-names-in-e
 https://stackoverflow.com/questions/31181830/adding-item-to-dictionary-within-loop
 
 https://stackoverflow.com/questions/42344521/make-dictionary-with-only-keys
+
+https://stackoverflow.com/questions/16176996/keep-only-date-part-when-using-pandas-to-datetime
+
+https://pandas.pydata.org/docs/reference/api/pandas.Timestamp.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html
+
+https://towardsdatascience.com/learn-how-to-use-pandas-inplace-parameter-once-and-for-all-5a29bb8bf338
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.from_dict.html
