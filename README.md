@@ -43,3 +43,7 @@ https://towardsdatascience.com/learn-how-to-use-pandas-inplace-parameter-once-an
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html
 
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.from_dict.html
+
+https://towardsdatascience.com/how-to-read-csv-file-using-pandas-ab1f5e7e7b58
+
+
