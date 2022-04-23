@@ -47,4 +47,4 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.from_dict.html
 
 https://towardsdatascience.com/how-to-read-csv-file-using-pandas-ab1f5e7e7b58
 
-
+https://www.tutorialkart.com/matplotlib-tutorial/matplotlib-pyplot-savefig/
