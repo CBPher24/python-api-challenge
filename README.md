@@ -1,7 +1,8 @@
 # python-api-challenge
 GT Bootcamp API Homework
 
-
+## Observations
+Looking at all plots of Latitude vs Max Temperature, there is a strong correlation showing the closer you are to the Equator the hotter it is.  The plots all relating to both wind speed and cloudiness seem to be random. Just on examination of plots would make it seem there is a very weak correlation on the Equators affects of this two weather measurements.  Humidity appears to have a possible correlation to closiness to Equator, but this would be mild and feel that water near location would also have an affect.
 
 
 https://www.stackvidhya.com/check-if-key-exists-in-dictionary-python/
